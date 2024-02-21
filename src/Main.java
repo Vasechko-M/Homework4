@@ -113,7 +113,7 @@ public class Main {
             System.out.println("Числа one и two больше");
         }
         if (one == three && one > two ) {
-            System.out.println("Числа one и three больше");
+            System.out.println("Числа one и three больше.");
         }
         if (two == three && two > one ) {
             System.out.println("Числа two и three больше.");
